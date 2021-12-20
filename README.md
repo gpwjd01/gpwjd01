@@ -1,5 +1,5 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! I'm Hyejung park
-- 🎓 I majored in **Computer Science and Engineering** in [KoreaTech University](https://www.koreatech.ac.kr/kor/Main.do) (2020.03 ~ ing)
+- 🎓 I majored in **Computer Science and Engineering** in [Korea University of Technology and Education KoreaTech](https://www.koreatech.ac.kr/kor/Main.do) (2020.03 ~ ing)
 - ⌨️  I can use `Python`, `Java`, `Tensorflow`, `Keras`, `Pytorch`.
 - 🤔 I'm studying hard to contribute society
 
