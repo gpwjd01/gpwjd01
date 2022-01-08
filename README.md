@@ -1,7 +1,7 @@
 # <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hello! 
-- 🎓 I majored in **Computer Science and Engineering** 
+- 🎓 I majored in **Computer Science and Engineering**. 
 - ⌨️  I can use `Python`, `Java`, `Pytorch`.
-- 🤔 I'm studying hard to contribute society
+- 🤔 I'm studying hard to contribute society.
 
 # Github Stats
 <a href='#'>
